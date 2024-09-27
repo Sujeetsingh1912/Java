@@ -5,7 +5,6 @@ public class Literals
        System.out.println("DurgaSoftwareSolutions");
        System.out.println("Durga\tSoftware\tSolutions");
       
-      
        System.out.println("Durga\nSoftware\nSolutions");
   {   
        long mobileNo = 9988776655L;
