@@ -10,7 +10,6 @@ public class Literals
 
 
 
-      
        System.out.println("Durga\nSoftware\nSolutions");
   {   
        long mobileNo = 9988776655L;
