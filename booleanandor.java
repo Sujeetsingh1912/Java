@@ -4,7 +4,6 @@ public class booleanandor
 
 
 
-
 }
        int a = 10;
        int b = 2;
