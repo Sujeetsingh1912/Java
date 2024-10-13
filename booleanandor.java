@@ -11,6 +11,5 @@ public class booleanandor
        System.out.println(a>>b);
 
 
-
    }
 }
