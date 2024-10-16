@@ -9,7 +9,6 @@ public class booleanliterals
 
 
      
-     
        System.out.println("Today is SUNDAY : "+b1);
        System.out.println("This is Holiday : "+b2);
      
