@@ -1,5 +1,4 @@
-public class booleanliterals
-{
+public class booleanliterals {
   public static void main(String[] args)
    {
      
