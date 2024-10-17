@@ -4,7 +4,6 @@ public class booleanliterals {
 
 
 
-     
        boolean b1 = true;
        boolean b2 = false;
        System.out.println("Today is SUNDAY : "+b1);
