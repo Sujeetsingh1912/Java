@@ -8,4 +8,3 @@ public class floatliterals
        System.out.println("Temp   : "+temp);
 }   
 }
-
