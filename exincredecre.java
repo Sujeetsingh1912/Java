@@ -4,7 +4,6 @@ public class exinredecre
    {
 
 
-
       int a = 7;
       System.out.println(++a - ++a);
       
