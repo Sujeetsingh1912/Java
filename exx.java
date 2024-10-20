@@ -11,7 +11,6 @@ public class exx
        System.out.println(a>>b);
 
 
-
       
    }
 }
