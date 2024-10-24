@@ -8,6 +8,11 @@ public class Literals {
        System.out.println(mobileNo);
        long balance = 12345777899876l;
        System.out.println(balance);
+
+
+
+
+     
   }   
   }  
   }   
