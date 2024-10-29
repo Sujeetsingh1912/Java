@@ -6,7 +6,6 @@ public class Literals {
   {  
 
 
-
    
        long mobileNo = 9988776655L;
        System.out.println(mobileNo);
