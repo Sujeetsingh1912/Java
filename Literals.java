@@ -4,7 +4,6 @@ public class Literals {
 
 
 
-      
        System.out.println("DurgaSoftwareSolutions");
        System.out.println("Durga\tSoftware\tSolutions");
        System.out.println("Durga\nSoftware\nSolutions");
