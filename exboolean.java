@@ -1,6 +1,5 @@
 public class exboolean {
 
-
    public static void main(String[] args) {
       
       boolean b1 = true;
@@ -23,7 +22,6 @@ public class exboolean {
       System.out.println(b1 ^ b2);// true
       System.out.println(b2 ^ b1);// true
       System.out.println(b2 ^ b2);// false
-
 
    }   
 }

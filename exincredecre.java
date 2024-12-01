@@ -1,10 +1,11 @@
-public class exinredecre
-{
-   public static void main(String[] args) 
-   {
+public class exincredecre {
+
+
+   public static void main(String[] args) {
+      
       int a = 7;
       System.out.println(++a - ++a);
-      
+
       int b = 8;
       System.out.println(b++-b++);
 
@@ -19,6 +20,9 @@ public class exinredecre
 
        int f = 6;
       System.out.println((--f+--f)+(++f-++f)*(++f-f--)-(--f+f++));
+
+
+
 
    }   
 }

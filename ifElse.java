@@ -14,7 +14,7 @@ public class ifElse {
                status = "THIRD CLASS";
            }else if(smarks < 60){
                status = "SECOND CLASS";
-           }else if(smarks < 70){
+           }else if(smarks < 75){
                status = "FIRST CLASS";
            }else{
                status = "DISTINCTION";

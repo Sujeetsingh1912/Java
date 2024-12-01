@@ -10,6 +10,7 @@ public class binarynumber
         System.out.println(c);
         int d = 0B1111;
         System.out.println(d); 
+      
 
     }
 }
