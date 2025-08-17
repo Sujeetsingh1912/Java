@@ -7,7 +7,6 @@ public class Arithmaticoperation {
       
        int a = 0b1010;//a=10
        int b = 05;// b = 5
-
       
        System.out.println("ADD    : "+(a+b));// ADD : 15
        System.out.println("SUB    : "+(a-b));// SUB : 5
@@ -15,6 +14,7 @@ public class Arithmaticoperation {
        System.out.println("DIV    : "+(a/b));// DEV : 2
    }   
 }
+
 
 
 
