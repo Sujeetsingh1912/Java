@@ -14,12 +14,12 @@ public class Arithmaticoperation {
 
 
 
-
        System.out.println("ADD    : "+(a+b));// ADD : 15
        System.out.println("SUB    : "+(a-b));// SUB : 5
        System.out.println("MUL    : "+(a*b));// MUL : 50
        System.out.println("DIV    : "+(a/b));// DEV : 2
    }   
 }
+
 
 
