@@ -6,7 +6,6 @@ public class Condition2 {
         int b = sc.nextInt();
 
 
-
         if (a==b ){
             System.out.println("a is equal to b");
         }
@@ -20,6 +19,7 @@ public class Condition2 {
 
          }
 }
+
 
 
 
