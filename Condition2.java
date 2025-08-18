@@ -13,7 +13,6 @@ public class Condition2 {
 
 
         
-
         if (a==b ){
             System.out.println("a is equal to b");
         }
@@ -27,4 +26,5 @@ public class Condition2 {
 
          }
 }
+
 
