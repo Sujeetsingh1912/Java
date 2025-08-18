@@ -5,6 +5,15 @@ public class Condition2 {
         int a = sc.nextInt();
         int b = sc.nextInt();
 
+
+
+
+
+
+
+
+        
+
         if (a==b ){
             System.out.println("a is equal to b");
         }
@@ -18,3 +27,4 @@ public class Condition2 {
 
          }
 }
+
