@@ -1,7 +1,6 @@
 public class Arithmaticoperater {
    
 
-   
    public static void main(String[] args) {
       
        int a = 0b1010;
@@ -24,6 +23,7 @@ public class Arithmaticoperater {
 
    }   
 }
+
 
 
 
