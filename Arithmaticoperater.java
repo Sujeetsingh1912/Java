@@ -1,7 +1,5 @@
 public class Arithmaticoperater {
-
    
-
 
    public static void main(String[] args) {
       
@@ -25,4 +23,5 @@ public class Arithmaticoperater {
 
    }   
 }
+
 
