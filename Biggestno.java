@@ -6,7 +6,6 @@ public class Biggestno {
         int big   = x > y?(x > z? x : z): (y > z? y : z);
 
 
-        
         int small = x < y?(x < z? x : z ): (y < z? y : z);
 
         System.out.println("biggest no  :  "+big);
@@ -14,6 +13,7 @@ public class Biggestno {
     }
 
 }
+
 
 
 
