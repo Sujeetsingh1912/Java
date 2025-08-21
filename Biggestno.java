@@ -6,7 +6,6 @@ public class Biggestno {
         int big   = x > y?(x > z? x : z): (y > z? y : z);
 
 
-
         
         int small = x < y?(x < z? x : z ): (y < z? y : z);
 
@@ -15,6 +14,7 @@ public class Biggestno {
     }
 
 }
+
 
 
 
